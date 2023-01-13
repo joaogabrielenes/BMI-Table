@@ -4,4 +4,4 @@
  This project was made following a course, so it is not my property, but part of it was made by me
  
 <h2>Link to open the project</h2>
-<a href="https://john-enes.github.io/BMI-Tableindex.html">click here</a>
+<a href="https://john-enes.github.io/BMI-Table/">click here</a>
